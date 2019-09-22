@@ -1,2 +1,2 @@
-# TV-HALFTIME-SHOWS-AND-THE-BIG-GAME
-DataCamp Project 1
+#solutions to DataCamp Projects by Weiheng Chen
+
