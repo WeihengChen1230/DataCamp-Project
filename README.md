@@ -11,5 +11,4 @@ Solutions to DataCamp Projects by Weiheng Chen<br/>
 |#|Title|Points|Description|Topics|
 | :----:  | :----:  | :----:  | :----:  |:----:|
 |1| TV, Halftime Shows, and the Big Game|
-|2| Classify Song Genres From Audio Data|correlation matrix, PCA, logistic regression, decision tree, cross-validation, K-Fold|
-
+|2| Classify Song Genres From Audio Data|correlation matrix, PCA, logistic regression, decision tree, cross-validation, K-Fold|Rock or rap? Apply machine learning methods in Python to classify songs into genres|DATA VISUALIZATION MACHINE LEARNING IMPROTING & CLEANING DATA|
