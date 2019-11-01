@@ -8,6 +8,8 @@ Solutions to DataCamp Projects by Weiheng Chen<br/>
 | 3 | Exploring The Kaggle Data Science Survey |case_when() facet_wrap()|Discover the top tools Kaggle participants use for data science and machine learning|DATA MANIPULATION DATA VISUALIZATION CASE STUDIES|
 ## Python<br/>
 ### DATA MANIPULATION<br/>
-1. TV, Halftime Shows, and the Big Game
-
+|#|Title|Points|Description|Topics|
+| :----:  | :----:  | :----:  | :----:  |:----:|
+|1| TV, Halftime Shows, and the Big Game|
+|2| Classify Song Genres From Audio Data|correlation matrix, PCA, logistic regression, decision tree, cross-validation, K-Fold|
 
